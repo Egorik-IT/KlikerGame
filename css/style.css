@@ -1,3 +1,6 @@
+* {
+  -webkit-tap-highlight-color: transparent;
+}
 body {
   font-family: 'Bruno Ace SC';
   max-width: 100%;
